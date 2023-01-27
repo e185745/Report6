@@ -1,4 +1,4 @@
-package ap.ac.uryukyu.ie.k225785;
+import ap.ac.uryukyu.ie.k225785.*;
 
 public class Main{
     public static void main(String[] args){
